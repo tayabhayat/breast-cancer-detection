@@ -50,7 +50,7 @@ breast-cancer-detection/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/breast-cancer-detection.git
+git clone https://github.com/tayabhayat/breast-cancer-detection.git
 ```
 
 ### 2. Navigate to the project
